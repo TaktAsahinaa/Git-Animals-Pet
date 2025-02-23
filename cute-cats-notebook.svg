@@ -134,13 +134,13 @@
   }
 
 </style>
-<g id="cat" transform="translate(80, 60)">
+<g id="cat" transform="translate(80, 70)">
 <g id="contributions-wrap">
-  <g transform="translate(-15, -55)"
+  <g transform="translate(-15, -50)"
     style="display:*{contribution-display};">
     <g id="text-swing" transform="translate(-3, -1)">
-      <text transform="translate(40, 13)" font-size="14" font-family="Helvetica" font-weight="600" text-anchor="middle" alignment-baseline="end" fill="#6b508e">ngoding aja dulu</text>
-      <text transform="translate(40, 27)" font-size="14" font-family="Helvetica" font-weight="600" text-anchor="middle" alignment-baseline="end" fill="#6b508e"> pusing nya mh belakangan</text>
+      <text transform="translate(40, 13)" font-size="13" font-family="Helvetica" font-weight="600" text-anchor="middle" alignment-baseline="end" fill="#ffffff">ngoding aja dulu</text>
+      <text transform="translate(40, 27)" font-size="13" font-family="Helvetica" font-weight="600" text-anchor="middle" alignment-baseline="end" fill="#ffffff"> pusing nya mh belakangan</text>
     </g>
     <svg width="600" height="300" viewBox="0 0 200 100" fill="none" overflow="visible"
       xmlns="http://www.w3.org/2000/svg">
