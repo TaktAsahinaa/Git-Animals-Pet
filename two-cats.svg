@@ -132,9 +132,8 @@
   animation-iteration-count:infinite;
   animation-timing-function: ease-in-out;
   }
-
 </style>
-<g id="cat" transform="translate(80, 50)">
+<g id="cat" transform="translate(80, 65)">
 <g id="contributions-wrap">
   <g transform="translate(-15, -50)"
     style="display:*{contribution-display};">
@@ -150,7 +149,7 @@
   </g>
 </g>
 
-<svg width="600" height="300" viewBox="0 0 200 100" fill="none" overflow="visible">
+<svg width="600" height="300" viewBox="0 0 200 100" overflow="visible">
   <g id="cat-shadow" transform="translate(1, 10)">
     <rect y="0.75" width="11" height="1.5" fill="#2B4447" fill-opacity="0.1"/>
     <rect x="0.846146" y="0.375" width="9.30769" height="0.375" fill="#2B4447" fill-opacity="0.1"/>
@@ -388,8 +387,7 @@
     <rect width="1.5" height="0.5" transform="matrix(-1 0 0 1 8 3.5)" fill="#242427"/>
   </g>
 </svg>
-<svg width="600" height="300" viewBox="0 0 330 150" fill="none" overflow="visible">
-
+<svg width="600" height="300" viewBox="0 0 330 150" overflow="visible">
   <g id="cat-shadow" transform="translate(1, 10)">
     <rect y="0.75" width="11" height="1.5" fill="#2B4447" fill-opacity="0.1"/>
     <rect x="0.846146" y="0.375" width="9.30769" height="0.375" fill="#2B4447" fill-opacity="0.1"/>
@@ -593,8 +591,5 @@
     <rect x="2" y="6" width="1" height="2" fill="black" fill-opacity="0.1"/>
   </g>
 </svg>
-<svg width="600" height="300" viewBox="0 0 200 100" fill="none" overflow="visible">
-</svg>
 </g>
 </svg>
-
